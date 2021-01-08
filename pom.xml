@@ -8,13 +8,13 @@
   <packaging>kjar</packaging>
   <name>test</name>
   <description>test</description>
-  <distributionManagement>
+ <!-- <distributionManagement>
     <repository>
       <id>smg.nexus</id>
       <name>Release Repository</name>
       <url>http://smg-devtools.swm.com.ar/nexus/content/repositories/smg-bpm-rhpam</url>
     </repository>
-  </distributionManagement>
+  </distributionManagement> -->
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
